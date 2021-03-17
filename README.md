@@ -1,3 +1,3 @@
-## see who unfollowed you 🙎‍♂️
+## see who unfollowed you
 
 instagram bot to monitor your profile
